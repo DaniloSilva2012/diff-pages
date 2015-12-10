@@ -1,0 +1,17 @@
+add test log ${date} ambiente de teste: ${2} <===> produção
+add test log ${date} ambiente de teste: ${2} <===> produção
+add test log ${date} ambiente de teste: ${2} <===> produção
+add test log ${date} ambiente de teste: ${2} <===> produção
+add test log ${date} ambiente de teste: ${2} <===> produção
+add test log ${date} ambiente de teste: ${2} <===> produção
+add test log ${date} ambiente de teste: ${2} <===> produção
+add test log ${date} ambiente de teste: ${HOMOLOG} <===> produção
+add test log ${date} ambiente de teste: ${HOMOLOG} <===> produção
+add test log ${date} ambiente de teste: ${HOMOLOG} <===> produção
+add test log ${date} ambiente de teste: ${HOMOLOG} <===> produção
+add test log ${date} ambiente de teste: ${HOMOLOG} <===> produção
+add test log ${date} ambiente de teste: ${HOMOLOG} <===> produção
+add test log ${date} ambiente de teste: ${HOMOLOG} <===> produção
+add test log ${date} ambiente de teste: ${HOMOLOG} <===> produção
+add test log ${date} ambiente de teste: ${HOMOLOG} <===> produção
+add test log ${date} ambiente de teste: ${HOMOLOG} <===> produção
